@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Page</title>
+</head>
+<body>
+    <h1>Naruto Ramen</h1>
+    <p>Welcome to this guide of learning to cook <strong>NARUTO RAMEN</strong> the <strong>Ichiraku RAMEN</strong> alright folks lets get started.</p>
+    <a href="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FJapaneseFood%2Fcomments%2Fonh2rl%2Fmy_take_on_narutos_ramen_did_i_nail_it%2F&opi=89978449"> Naruto Image </a>  
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="Naruto Ramen Bowl" width="300" height="200">
+    <h2>Ingredients</h2>
+    <ul>
+        <li>2 1-2 pounds pork bones</li>
+        <li> 4 liters of water</li>
+        <li>1 inch of fresh ginger</li>
+        <li>1 3inch strip of kombu</li>
+        <li>1 cup of chopped green onions</li>
+        <li>1 cup of sliced mushrooms</li>
+        <li>1 cup of corn kernels</li>
+        <li>Naruto fish cake slices (optional)</li>
+        <li>Soy sauce to taste</li>
+        <li>Sesame oil (optional)</li>  
+    </ul>
+
+    <h2>Instructions</h2>   
+    <ol>
+        <li>
+1. Start with the broth. Throw bones, ginger, and water into a stock pot. Begin to boil. As it boils, strain off any scum that floats to the top. Reduce to a simmer, and let simmer about 6 hours. Replace water as needed, so that it is always at the same level and bones are covered. When it is ready, strain the broth to remove the ginger, bones, and any debris in the broth. <
+</li>
+
+<li>2. Throw kombu into the pot with the strained broth, and bring back up to a simmer. Let simmer about 15 minutes. Remove kombu, and add in sake, soy sauce, and sugar. Stir well, and then take a ladle full of broth, and mix it into the miso to thin it out. Add in parts, tasting as you go, until you're happy with the saltiness of your broth. 
+
+</li>
+<li>3. Finally, add in the chili paste to the broth as desired. The purpose is to add a little complexity and give it a slight kick, but add at your own discretion. Set aside in the fridge overnight, or set aside while you prepare the rest of the ingredients. </li>
+
+
+<li>4. While the broth is cooking, soft boil the eggs. Bring a pan of water to a boil. Pierce the fat end of the eggs with a pin to allow the air bubble in the egg to be pushed out as the egg cooks. Add in the eggs to the boiling water, and let the water simmer for seven minutes (do not let it come back to a full boil!). I do this by dropping the eggs in and leaving them alone- the temperature of the eggs will reduce the heat of the water enough. But control your heating apparatus as you see fit. After seven minutes, remove from water and immediately deposit into an ice water bath.
+
+
+5. When eggs have cooled, gently (GENTLY) peel the eggs. The white will be delicate, so go slowly and carefully! 
+
+
+6. Mix up the liquids in a bag or bowl, and pop the eggs inside. Allow to sit in the fridge for 1-2 hours at least, overnight for best effect.
+
+
+7. Let's work on the Chasu! Salt the entirety of your slab of pork belly. Roll up, and use a skewer or butcher's twine to secure the roll. 
+
+
+8. Heat a neutral oil (like vegetable) over high heat in a pan. When hot, brown the pork roll, about 4-5 minutes each side, and 1-2 minutes on the edges of the roll. When ready, remove from pan, and wipe the pan out. Put in the liquids, the sugar, and the ginger, and place the pork back in the pan. Bring up to a simmer. Cover with a foil lid to promote even distribution of cooking. 
+
+
+9. Flip once, halfway through cooking, which should take about 45 minutes to an hour. It is ready when the sauce is thickened and you can see the bottom of the pan when you push the pork around. When the sauce begins to bubble up, and the pork has a nice shiny coating, it's ready. Remove from pan, with sauce, and set aside or store in fridge until you are ready to use.
+
+
+Before moving onto the next step, bear in mind that the broth, eggs, and pork should all be ready to use after their copious cooking/ marinating times.
+
+
+10. Prepare toppings. Slice the green onions finely, slice the naruto, get out the menma (they usually come prepared in a jar or tin), slice eggs in half, and slice the pork so that you get thin slices of swirled pork. 
+
+
+11. Put a pot of water on to boil. When boiling, place fresh ramen noodles into a strainer, and deposit into the water. Allow to cook about 90 seconds, or until noodles are bouncy. Immediately remove from the water with the strainer, and put in serving bowl.
+
+
+12. Ladle broth over the noodles, and then top with the toppings as you see fit! For the proper Naruto ramen, you need five slices of chasu, a handful of chopped green onions, some slices of naruto, menma, and one half of a soft boiled egg. 
+
+
+13. And now it's done! Enjoy!</li>
+</ol>
+</body>
+</html>
